@@ -1,5 +1,7 @@
 # [MathQuill](http://mathquill.github.com)
 
+My (Peter Jipsen) contribution so far: [A test file that lists all(?) MathQuill symbols](http://math.chapman.edu/~jipsen/mathquill/test/test.html)
+
 by [Han][] and [Jay][].  Current development is proudly supported by [Desmos][], whose awesome graphing calculator makes extensive use of Mathquill.
 
 [Han]: http://github.com/laughinghan
